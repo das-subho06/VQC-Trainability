@@ -1,0 +1,17 @@
+# Quantum Machine Learning
+pennylane==0.45.0
+pennylane-lightning==0.45.0
+
+# Numerical Computing
+numpy>=2.0
+scipy>=1.16
+
+# Machine Learning
+scikit-learn>=1.7
+
+# Data Handling
+pandas>=2.2
+
+# Visualization
+matplotlib>=3.10
+
